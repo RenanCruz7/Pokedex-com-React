@@ -10,7 +10,6 @@ function App() {
     <body>
       <AppContainer>
         <h1>Pokedex</h1>
-        <ul data-js="pokedex" className="pokedex"></ul>
       </AppContainer>
     </body>
   );
